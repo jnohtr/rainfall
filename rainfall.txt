@@ -14,3 +14,5 @@ runoff_in_cu_inches = (legnth_of_roof *12) * (width_of_roof  * 12) * (amt_of rai
 runoff_in_gallons = runoff_in_cu_inches/231
 
 (50*12 * 20*12 * 1)/231 Inch = 623.38
+
+This is my finest example 
