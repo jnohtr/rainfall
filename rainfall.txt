@@ -1,0 +1,16 @@
+ALGORITHM
+Number of gallons runoff =length_of_root * width_of_root * amt_of_rain /231
+
+INPUTS
+legnth_of_roof (feet)
+width_of_roof (feet)
+amt_of rain (inches)
+
+OUTPUTS
+runoff_in_gallons (gallons)
+
+PROCESSING STEPS
+runoff_in_cu_inches = (legnth_of_roof *12) * (width_of_roof  * 12) * (amt_of rain)
+runoff_in_gallons = runoff_in_cu_inches/231
+
+(50*12 * 20*12 * 1)/231 Inch = 623.38
